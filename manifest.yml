@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 1024M
+  host: sammy-crawler2
+  name: sammy-crawler2
+  path: webStarterApp.war
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M
